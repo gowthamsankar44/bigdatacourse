@@ -1,0 +1,16 @@
+Hi This is my first commit in Simplilearn Bigdata & Hadoop Developer course
+
+Here I am going to do hands-on on Basic HDFS commands in Hadoop 
+
+I am using singlenode Hadoop system which, I have installed in Ubuntu OS which is in my Oracle VM.
+
+
+Things I have learned
+
+
+Step: 1 Create text file using vi editor/notepad
+step: 2 Create one directory in HDFS
+Step: 3 Transfer that text file from my windows laptop to ubuntu system using winSCN
+Step: 4 Transfer that text file from ubuntu local system to HDFS
+Step: 5 Going to get details for all replicated blocks of the sample file
+Step: 6 Deleting the file from HDFS.
